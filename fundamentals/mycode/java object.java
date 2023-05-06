@@ -11,13 +11,13 @@ public class NamesMain {
 
 public class NamePrinter {
     public void print(){
- 	   System.out.println("pfadzani siobo");
+ 	   System.out.println("pfadzani");
     }
 }
 
 public class SurnamePrinter {
     public void print(){
- 	   System.out.println("pfadzani siobo");
+ 	   System.out.println("siobo");
     }
 }
 

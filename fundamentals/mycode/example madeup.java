@@ -1,6 +1,6 @@
-Public class Display{
-Public static void main(){
-Int a  = 10;
+public class Display{
+public static void main(){
+int a  = 10;
  System.out.print(a);
 }
 }

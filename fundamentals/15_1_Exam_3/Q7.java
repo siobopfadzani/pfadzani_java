@@ -4,7 +4,7 @@ public class practice{
  	char b = 982;
  	char c = (char)70000;
  	char d = (char)-98;
- 	//System.out.println(c);
+ 	System.out.println(c);
  	System.out.println(d);
  	}
 }

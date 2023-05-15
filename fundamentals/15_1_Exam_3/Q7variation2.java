@@ -1,8 +1,10 @@
 public class practice{
  public static void main(String[]args) {
- 	long b1= 0x1FL;
- 	long b2 = 0x110L;
- 	System.out.println(b1 +" " + b2);
+ 	char a = 0x892;
+ 	char b = 982;
+ 	char c = (char)6333333;
+ 	char d = (char)-10000000;
+ 	System.out.println(c);
+ 	System.out.println(d);
  	}
 }
-//b1=1, b2=4+2

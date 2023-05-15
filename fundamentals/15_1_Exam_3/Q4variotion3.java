@@ -5,4 +5,4 @@ public class practice{
  	System.out.println(b1 +" " + b2);
  	}
 }
-//b1=1, b2=4+2
+

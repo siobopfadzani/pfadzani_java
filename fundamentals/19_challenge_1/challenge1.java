@@ -26,15 +26,16 @@ public class PromptUserDetails{
         
         int meters =1000;
         double miles =0.621371;
-        double seconds = 0.277777778;
-        //long miliseconds = 31556926000;
+        long seconds = 365*24*60*60;
+        long miliseconds = 365*24*60*60*1000;
+        
         
         System.out.println("Distance in Mile: " +  miles*Integer.parseInt(distance_from_store)+ "mil." );
        
         System.out.println("Distance in meters: " +  meters*Integer.parseInt(distance_from_store)+ "m" );
         System.out.println("Age in seconds: " +  seconds*Integer.parseInt(year)+ "s" );
         
-       // System.out.println("Age in miliseconds:" +  miles*Integer.parseInt(year)+ "mi." );
+        System.out.println("Age in miliseconds:" +  miliseconds*Integer.parseInt(year)+ "mi." );
     }
 }
 

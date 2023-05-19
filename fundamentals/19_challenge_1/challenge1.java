@@ -36,6 +36,8 @@ public class PromptUserDetails{
         System.out.println("Age in seconds: " +  seconds*Integer.parseInt(year)+ "s" );
         
         System.out.println("Age in miliseconds:" +  miliseconds*Integer.parseInt(year)+ "mi." );
+    
+        
     }
 }
 

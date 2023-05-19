@@ -28,7 +28,7 @@ public class PromptUserDetails{
         double miles =0.621371;
         long seconds = 365*24*60*60;
         long miliseconds = 365*24*60*60*1000;
-        
+     
         
         System.out.println("Distance in Mile: " +  miles*Integer.parseInt(distance_from_store)+ "mil." );
        
@@ -36,6 +36,8 @@ public class PromptUserDetails{
         System.out.println("Age in seconds: " +  seconds*Integer.parseInt(year)+ "s" );
         
         System.out.println("Age in miliseconds:" +  miliseconds*Integer.parseInt(year)+ "mi." );
+        System.out.println("Age in hexadecimal:" + Integer.toHexString(age)+"hex" );
+        
     
         
     }

@@ -1,10 +1,17 @@
-public class ArrayTest3 {
-    public static void main(String[] args) {
-        int [] lottonumbers = {233,444,678,675,897,678,453,567,455,456,453};
-       
-        for(int i = 1; i < lottonumbers.length;i*=3){
-            System.out.println("index = "+ i +" value = "+lottonumbers[i]);
-        }
-    }
+public class arraytest{
+	public static void main(String [] args){
+	 int b = 0;
+	 String[]values = {"hi","hello","pfadzani","siobo","pfadzanisiobo"};
+	 for (b=1;b<values.length;b++){
+	 if (b<0){
+	 System.out.println("no value found");
+	 }
+	 else if(b>=0){
+	 System.out.println("index="+b+"greeting="+values[b]);
+	 }
+	 else{
+	 System.out.print("end of code");
+	 }
+	 }
+	}
 }
-

@@ -8,7 +8,7 @@ public class Practice {
         }
     }
     
-    public void practice1() {
+    public void Practice1() {
         for (int a = 0; a < 2; a++) {
             System.out.println("value for my test is " + a);
         }
@@ -16,7 +16,10 @@ public class Practice {
     
     public static void main(String[] args) {
         Practice object = new Practice();
-        object.practice1();
+        Practice object1 = new Practice();
+        object.Practice1();
+        //object1.Practice1();
+        
     }
 }
 

@@ -1,1 +1,22 @@
+Test step  - testing something one by one
+test Assertion - Testing something with a help of checking the results
+integration testing - testing multiple concepts 
+exploratory testing  - it when you go through a code manually and trying to get where the problem is.
+		     - its a form of testing that is done without a plan, in an exploratory test, youre 			 just exploring the application
+
+intergration tests checks that components in your application operate with each other
+unit testing checks a small component in your application
+
+JUnit 5  - its a combination of programming mode; and extension model for writing tests and extensions in JUnit 5. the jupiter sub-project provides a  TestEngine for running jupitar
+
+JUnit jupiter- is the combination of programming of the programming model and extension model for writing tests and extension in unit junit 5.
+
+Junit vintage -  provides TestEngine for running JUnit 4 basd tests the plartforms provides the plartform. it requires junit 4.12 or later to be present 
+
+
+In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.[1]
+
+
+
+
 

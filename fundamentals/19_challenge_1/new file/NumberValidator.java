@@ -1,14 +1,19 @@
 public class NumberValidator {
-    public static boolean numberValidator(String distance, String prompt) {
+    public static boolean numberValidator(String distance) {
     
-    boolean goback = Boolean.parseBoolean(prompt);
-        if (distance == null || distance.isEmpty()) {
-            System.out.println("Distance provided not valid");
+
+        if (distance == null || distance.isEmpty())
+         {
+
+            
             return false;
-        }else{
-           return goback;
-           
-        }
+          }
+          
+        if (distance.matches("[a-zA-Z_]+"))
+             {
+               return false;
+             }
+               return true;
    }
 }
 

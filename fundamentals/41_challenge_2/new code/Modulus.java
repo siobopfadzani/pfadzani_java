@@ -1,22 +1,11 @@
 
 import java.util.Scanner;
 
-public class Modulus{
-   public double modulus (String FistValue, String arithmaticOperator,String secondValue){
+public class  Modulus{
+   public static double modulus (double value1,double value2){
    
-      double num1 = Double.parseDouble(FistValue);
-      double num2 = Double.parseDouble(secondValue);
-      double result = 0.0;
-      
-      
-      switch (arithmaticOperator){
-         case "%" :
-         {
-            result = num1 % num2; 
-            break;
-         }
-      }
-       return result;
+      double result = value1 % value2; 
+      return result;
    }
 
 }  

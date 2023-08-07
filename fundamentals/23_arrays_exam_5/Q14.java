@@ -1,4 +1,4 @@
-class changeIt
+class Q14
  { 
    static void doIt(int[]z)
    { 

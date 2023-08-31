@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "question41",
+            "request": "launch",
+            "mainClass": "question41",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question40",
+            "request": "launch",
+            "mainClass": "question40",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question39",
+            "request": "launch",
+            "mainClass": "question39",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question37",
+            "request": "launch",
+            "mainClass": "question37",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question35",
+            "request": "launch",
+            "mainClass": "question35",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question52",
+            "request": "launch",
+            "mainClass": "question52",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question51",
+            "request": "launch",
+            "mainClass": "question51",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question48",
+            "request": "launch",
+            "mainClass": "question48",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question42",
+            "request": "launch",
+            "mainClass": "question42",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "Practise",
+            "request": "launch",
+            "mainClass": "Practise",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question19",
+            "request": "launch",
+            "mainClass": "question19",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question3",
+            "request": "launch",
+            "mainClass": "question3",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "Question10",
+            "request": "launch",
+            "mainClass": "Question10",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "Question8",
+            "request": "launch",
+            "mainClass": "Question8",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "Question6",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Question5",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "Question4",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question25",
+            "request": "launch",
+            "mainClass": "question25",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question31",
+            "request": "launch",
+            "mainClass": "question31",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question30",
+            "request": "launch",
+            "mainClass": "question30",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question20",
+            "request": "launch",
+            "mainClass": "question20",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question17",
+            "request": "launch",
+            "mainClass": "question17",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question16",
+            "request": "launch",
+            "mainClass": "question16",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question15",
+            "request": "launch",
+            "mainClass": "question15",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question14",
+            "request": "launch",
+            "mainClass": "question14",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question13",
+            "request": "launch",
+            "mainClass": "question13",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question10",
+            "request": "launch",
+            "mainClass": "question10",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question9",
+            "request": "launch",
+            "mainClass": "question9",
+            "projectName": "pfadzani_java_f3aaf637"
+        },
+        {
+            "type": "java",
+            "name": "question6",
+            "request": "launch",
+            "mainClass": "question6",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticPrint",
+            "request": "launch",
+            "mainClass": "ArithmeticPrint",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "IntInheritanceTest",
+            "request": "launch",
+            "mainClass": "IntInheritanceTest",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

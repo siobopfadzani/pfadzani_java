@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "question12",
+            "request": "launch",
+            "mainClass": "question12",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "question52",
+            "request": "launch",
+            "mainClass": "question52",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "question15",
+            "request": "launch",
+            "mainClass": "question15",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "question16",
+            "request": "launch",
+            "mainClass": "question16",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "question41",
             "request": "launch",
             "mainClass": "question41",

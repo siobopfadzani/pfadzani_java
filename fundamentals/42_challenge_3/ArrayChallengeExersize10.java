@@ -10,7 +10,7 @@ public class myArrayay_Challenge10
          {
             for (int j = 0; j < Arr[i].length; j++)
             {
-               Arr[i][j] +=1;
+               Arr[i][j] = Arr[i][j]+ i + 1;
                System.out.println("values "+ Arr[i][j]);
             }
          }

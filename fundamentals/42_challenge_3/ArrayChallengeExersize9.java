@@ -1,35 +1,42 @@
+public class myArrayay_Challenge9 {
+    public static void main(String[] args) {
 
-public class myArrayay_Challenge9
-{
-   public static void main(String[]args)
-   {
+        int[][] Arr = { {1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+                        11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+                        21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+                        31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+                        41, 42, 43, 44, 45, 46, 47, 48, 49, 50,
+                        51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+                        11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+                        21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+                        31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+                        41, 42, 43, 44, 45, 46, 47, 48, 49, 50 },
+                {
+                        21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+                        31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+                        41, 42, 43, 44, 45, 46, 47, 48, 49, 50}};
+        int i = 0;
+        int j = 0;
 
-         int[][] Arr = new int[100][30];
-
-         int i = 0;
-         int j = 0;
-         while (i < Arr.length)
-         {
-            while (j < Arr[i].length)
+        while (i < Arr.length) 
+        {
+            while (j < Arr[i].length) 
             {
-               
-               Arr[i][j] += 1;
-               switch (Arr[i][j] % 11)
-               {
-                 case 0:
-                    System.out.println("values in the array = "+Arr[i][j]);
-                    break;
-                  default :
-                     break;
-               }
+                Arr[i][j] = Arr[i][j] + i + 1;
 
-               j += 2;
-
+                switch (Arr[i][j]) {
+                    case 11:
+                    case 22:
+                    case 44:
+                    case 66:
+                        System.out.println("Value in Arr: " + Arr[i][j]);
+                        break;
+                    default:
+                        break;
             }
-
-            i += 2;
-            j=0;
-
+                j++;
          }
+            i++;
+      }
    }
 }

@@ -9,8 +9,8 @@ public class myArrayay_Challenge4
 
          for (int i = 0;i < Arr.length;i++)
          {
-            Arr[i] = Arr[i] + 1;
-            System.out.println(" values in Arr " +Arr[i]);
+            Arr[i] = Arr[i] + i + 1;
+            System.out.println("i = "+ i +" values in Arr "+Arr[i]);
          }
         
     }

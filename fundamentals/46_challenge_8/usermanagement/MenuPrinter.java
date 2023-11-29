@@ -6,6 +6,8 @@ public class MenuPrinter
 {
 	public static void print()
 	{
+		UserDAO user_DAO = new UserDAO();
+
 		String name,  surname, email, dob,id;
 		 System.out.println(" choose from the list below ");
 		 System.out.println("1. Add a user ");
@@ -19,27 +21,28 @@ public class MenuPrinter
 			switch (choice)
 			{
 				case 1:
-				  UserDAO.AddUser( name,  surname,  email,  dob,  id);
+				  user_DAO.AddUser( name,  surname,  email,  dob,  id);
 				  break;
 
 				case 2:
-				  UserDAO.delete(email);
+				  user_DAO.delete(email);
 				  break;
 
 				case 3:
-				  UserDAO.update( name,  surname,  email,  dob,  id);
+				  user_DAO.update( name,  surname,  email,  dob,  id);
 				  break;
 
 				case 4:
-				  UserDAO.getUserByEmail();
+				  user_DAO.getUserByEmail(Email);
 				  break;
 
 				case 5:
-				  System.out.println("");
+				  System.out.println("code Exiting");
 			  	  return;
 
 				default:
 				  System.out.println("Invalid choice");
+				  break;
 				  
 
 			}

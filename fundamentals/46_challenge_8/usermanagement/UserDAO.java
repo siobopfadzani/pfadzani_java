@@ -27,7 +27,7 @@ public class UserDAO
    
     }
 
-    public static void getUserByEmail(String email) 
+    public static void getUserByEmail(String Email) 
     {
     
     }

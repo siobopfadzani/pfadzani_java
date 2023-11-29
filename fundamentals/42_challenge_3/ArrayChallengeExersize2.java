@@ -14,7 +14,7 @@ public class myArrayay_Challenge2
         
       //for loop to iterate through the populated Array
 
-        for (int i = 0;i < myArray.length;i+=2)
+        for (int i = 0;i < myArray.length;i += 2)
 		    {
 		      myArray[i] = myArray[i] + 1;
           

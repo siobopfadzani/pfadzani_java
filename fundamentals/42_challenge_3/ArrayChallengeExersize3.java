@@ -21,7 +21,7 @@ public class myArrayay_Challenge3
 			     switch (myArray[i] % 11)
 			      {
 			       	case 0:
-                  System.out.println("myArray "+  myArray[i]);
+                  System.out.println("i = "+ i +"  myArray "+  myArray[i]);
                   break;
 
               default :

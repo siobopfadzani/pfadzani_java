@@ -14,9 +14,11 @@ public class myArrayay_Challenge1
       //for loop to iterate through the populated Array
 
         for (int i = 0;i < myArray.length;i++)
-		{
-			myArray[i] = myArray[i] + 1;
-			System.out.println("myArray " + myArray[i]);
+		    {
+
+			     myArray[i] = myArray[i] + 1;
+			     System.out.println("myArray " + myArray[i]);
+         
         }
     }
 }

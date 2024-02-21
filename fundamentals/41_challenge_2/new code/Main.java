@@ -53,6 +53,7 @@ public class Main {
                               break;
                            case 0 :
                                System.out.println("program exiting...");
+                               System.exit(0);
                                return;
                            default :
                                return;

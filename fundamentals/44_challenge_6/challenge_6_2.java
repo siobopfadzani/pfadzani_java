@@ -1,59 +1,68 @@
-public class StringManipulation 
-{
+public class StringManipulation {
     public static void main(String[] args) 
     {
-        String num_string = "1,2,3,4,5,6,7,\n,2,3,4,2,5,5";
+        String original = "1,4,3,2,3,7,5,6,9\n"+
+        "8,6,3,7,3,7,5,6,9\n";
+        String [] lines = original.split("\n");
 
-        String[] myArray = num_string.split("\n");
 
-        String[][] multi_myArray = new String[myArray.length][];
-
-        for (int i = 0; i < myArray.length; i++) 
+        for (String line: lines)
         {
-           multi_myArray[i] = myArray[i].split(",");
+            int [] irow = lineToArray(line);
         }
+    }
 
-        // Original array
-        System.out.print("Original Array: ");
-        for (int i = 0; i < multi_myArray.length; i++)
+    public static int[] lineToArray(String line)
+    {
+     System.out.println("original string "+ line);
+
+       
+        String []converted_Array1 = line.split(",");
+
+        int[] converted_Array = new int[20];
+
+        for (int i = 0; i < converted_Array.length;i++)
         {
-            for (int j = 0; j < multi_myArray[i].length; j++)
-            {
-                System.out.print(multi_myArray[i][j] + " ");
-            }
+            converted_Array[i] = Integer.parseInt(converted_Array1[i]);
         }
-
-    //iterate through the Array while sorting the array using bubble sort
         
-        for (int i = 0; i < multi_myArray.length; i++)
+        System.out.print("Original array ");
+        for (int i = 0; i <converted_Array.length;i++)
         {
-            for (int j = 0; j < multi_myArray[i].length - 1; j++)
+           System.out.print(converted_Array[i]+" ");
+        }
+    
+    //bubble sort
+    
+        for (int i = 0; i < converted_Array.length - 1; i++) 
+        {
+
+            for (int j = 0; j < converted_Array.length - i - 1; j++) 
             {
-                for (int k = 0; k < multi_myArray[i].length - j - 1; k++)
+                if ((converted_Array[j]) < (converted_Array[j + 1])) 
                 {
-            // Check if the strings are not empty before parsing
-                    if (!multi_myArray[i][k].isEmpty() && !multi_myArray[i][k + 1].isEmpty()) 
-                    {
-                        if (Integer.parseInt(multi_myArray[i][k]) > Integer.parseInt(multi_myArray[i][k + 1]))
-                        {
-                            String temp = multi_myArray[i][k];
-                            multi_myArray[i][k] = multi_myArray[i][k + 1];
-                            multi_myArray[i][k + 1] = temp;
-                        }
-                    }
+                    int temp = converted_Array[j];
+                    converted_Array[j] = converted_Array[j + 1];
+                    converted_Array[j + 1] = temp;
                 }
             }
         }
 
-
-        // Print the sorted array
-        System.out.print("\nSorted Array  : ");
-        for (int i = 0; i < multi_myArray.length; i++)
+        System.out.println();
+        System.out.print("Sorted array   ");
+        for (int number : converted_Array) 
         {
-            for (int j = 0; j < multi_myArray[i].length; j++)
-            {
-                System.out.print(multi_myArray[i][j] + " ");
-            }
+            System.out.print(number + " ");
         }
+        System.out.println();
     }
+     public static void printArray(int[]arrayToPrint)
+     {
+        for (int i = 0;i <arrayToPrint.length;i++)
+        {
+            System.out.println(arrayToPrint + " ");
+        }
+     } 
 }
+
+

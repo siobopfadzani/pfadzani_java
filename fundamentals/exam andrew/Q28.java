@@ -1,12 +1,12 @@
-public class Q22
+public class Q28
 {
 	public static void main(String[]args)
 	{
 		
 		
-		for(char i = 0,j = 1;i<5&&j <6; i++)
+		for(int i =0,j=1 ;i<5&&j<6;i++)
 		{
-			System.out.print((int)i + " "+ (int)j + ", ");
+			System.out.print(i + " "+ j + ", ");
 			j++;
 		}
 	}

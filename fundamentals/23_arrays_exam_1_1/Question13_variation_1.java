@@ -8,8 +8,7 @@ public class Question13
 		
 		al.add("111");
 		al.add("222");
-		al.add("333");
-		System.out.println(al.get(al.size()-3)); //
+		System.out.println(al.get(al.size()-1)); //
 
 	}
 }

@@ -1,16 +1,18 @@
-public class DoWhileTest2 {
-
+public class Multi_Test2{
     public static void main(String[] args) {
-
-        int [][] lottonumbers = new int[][]{{233,444,678,675},{897,678,453,567,455,456,453}};
-        
-        int i = 0;
-        do
+    	
+        int [][] lottogroups ={{1111,2222,3333,4444},{6666,7777,8888,9999},{11111,121212,131313}};
+    	
+        for(int i = 0;i < lottogroups.length ;i++)
         {
-             System.out.println("index = "+ i +" value = "+lottonumbers[i][i]);
-             i++;
 
-        }while(i<lottonumbers.length);
-        
+            System.out.println("Group :"+i);
+
+            for(int j = 0;j < lottogroups[i].length ;j+=2)
+            {
+                System.out.println("  Value "+j+" = "+lottogroups[i][j]);
+            }        	
+        }
+
     }
 }

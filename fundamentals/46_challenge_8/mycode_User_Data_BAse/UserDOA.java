@@ -7,13 +7,6 @@ public class UserData {
    public static String[][] userData = new String[100][5];
    public static int position = 0;
 
-
-
-
-
-
-   
-
    public static void main(String[] args) {
       
         Scanner scanDetails = new Scanner(System.in);

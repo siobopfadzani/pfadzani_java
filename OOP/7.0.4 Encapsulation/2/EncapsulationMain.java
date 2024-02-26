@@ -3,6 +3,6 @@ public class EncapsulationMain {
     {
         EncapsulationTest encapsulationTest = new EncapsulationTest();
         System.out.println("value 1 =  "+ encapsulationTest.setValue1(10));
-        System.out.println("value 2 =  "+encapsulationTest.setValue2(20));;
+        System.out.println("value 2 =  "+encapsulationTest.setValue2(20));
     }
 }

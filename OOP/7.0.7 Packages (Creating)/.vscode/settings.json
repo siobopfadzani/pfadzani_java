@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "SalesforceMain",
+        "CommandQualityMain",
+        "AdobeIncMain/za/co"
+    ]
+}

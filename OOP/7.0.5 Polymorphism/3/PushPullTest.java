@@ -6,6 +6,10 @@ public class PushPullTest {
         Push var1 = null;
         Pull var2 = null;
 
-        //---Replace
+        var1 = (Push) var2;
+        var1 = pushPull;
+        var2 = pushPull;
+
     }
 }
+

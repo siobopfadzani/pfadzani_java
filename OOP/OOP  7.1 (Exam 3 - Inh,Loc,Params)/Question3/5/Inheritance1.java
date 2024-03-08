@@ -5,7 +5,7 @@ public class Inheritance1
         Inheritance2 inherit = new Inheritance2();
         inherit.test();    
     }
-    public void test()
+     void test()
     {
         System.out.println("test");
     }

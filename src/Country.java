@@ -5,6 +5,7 @@ public class Country
     static String name1;
     int dummyCounter;
 
+
     public static void main(String[]args)
     {
         Country ob1 = new Country();
@@ -22,8 +23,5 @@ public class Country
 
         System.out.println(name1);
         System.out.println(ob1.name);
-
-
-
     }
 }

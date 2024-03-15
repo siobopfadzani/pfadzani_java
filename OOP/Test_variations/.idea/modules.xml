@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HeapAndStack/HeapAndStack.iml" filepath="$PROJECT_DIR$/HeapAndStack/HeapAndStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test class.iml" filepath="$PROJECT_DIR$/Test class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Type/Type.iml" filepath="$PROJECT_DIR$/Type/Type.iml" />
       <module fileurl="file://$PROJECT_DIR$/final_key/final_key.iml" filepath="$PROJECT_DIR$/final_key/final_key.iml" />
       <module fileurl="file://$PROJECT_DIR$/final_keyword/final_keyword.iml" filepath="$PROJECT_DIR$/final_keyword/final_keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />

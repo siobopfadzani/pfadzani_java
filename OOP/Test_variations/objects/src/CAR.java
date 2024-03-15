@@ -1,12 +1,15 @@
 public  class CAR
 {
-    protected  void nissan() {
+    protected  void nissan()
+    {
         System.out.println("i am nissan,");
     }
-    static void audi(){
+    static void audi()
+    {
         System.out.println("i am Audi,");
     }
-    protected void bmw(){
+    protected void bmw()
+    {
         System.out.println("i am BMW,");
 
     }

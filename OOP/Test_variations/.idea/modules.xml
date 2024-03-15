@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeapAndStack/HeapAndStack.iml" filepath="$PROJECT_DIR$/HeapAndStack/HeapAndStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test class.iml" filepath="$PROJECT_DIR$/Test class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final_key/final_key.iml" filepath="$PROJECT_DIR$/final_key/final_key.iml" />
       <module fileurl="file://$PROJECT_DIR$/final_keyword/final_keyword.iml" filepath="$PROJECT_DIR$/final_keyword/final_keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringTest/stringTest.iml" filepath="$PROJECT_DIR$/stringTest/stringTest.iml" />
     </modules>
   </component>
 </project>

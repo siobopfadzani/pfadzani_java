@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP 7.5 (Exam 5 - Inh,Loc,Params 3).iml" filepath="$PROJECT_DIR$/.idea/OOP 7.5 (Exam 5 - Inh,Loc,Params 3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q12/Q12.iml" filepath="$PROJECT_DIR$/Q12/Q12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q16/Q16.iml" filepath="$PROJECT_DIR$/Q16/Q16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q19/Q19.iml" filepath="$PROJECT_DIR$/Q19/Q19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q27/Q27.iml" filepath="$PROJECT_DIR$/Q27/Q27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q30/Q30.iml" filepath="$PROJECT_DIR$/Q30/Q30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q32/Q32.iml" filepath="$PROJECT_DIR$/Q32/Q32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q9/Q9.iml" filepath="$PROJECT_DIR$/Q9/Q9.iml" />
+    </modules>
+  </component>
+</project>

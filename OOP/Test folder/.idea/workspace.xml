@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e73ff73a-b6c1-466a-8290-dcdeeebc53df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Static_Test/Static_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Static_Test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/Test class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/Test class/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/Test class/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/Test class/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/Type/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/Type/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/final_key/ReferenceFinalVariableExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/final_keyword/FinalVariation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/final_keyword/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/objects/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/objects/Bmw$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/objects/Bmw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/objects/CAR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/objects/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/objects/Nissan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/stringTest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/out/production/stringTest/Scaler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_variations/Test/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_variations/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/Test class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/Test class/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/Test class/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/Test class/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/Type/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/Type/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/final_key/ReferenceFinalVariableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/final_keyword/FinalVariation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/final_keyword/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/objects/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/objects/Bmw$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/objects/Bmw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/objects/CAR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/objects/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/objects/Nissan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/stringTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/out/production/stringTest/Scaler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_variations/src/Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2disUUkHbuepJjwAiIp8no5azqz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/pfadzani-siobo/pfadzani_java/OOP/Test_variations"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e73ff73a-b6c1-466a-8290-dcdeeebc53df" name="Changes" comment="" />
+      <created>1710502249578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710502249578</updated>
+    </task>
+    <servers />
+  </component>
+</project>

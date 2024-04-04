@@ -1,3 +1,4 @@
+package Q2;
 
 class Eagle extends Bird
 {
@@ -14,7 +15,5 @@ class Eagle extends Bird
 	public static void main(String[]args)
 	{
 		System.out.println(new Eagle("Bald Eaagle").name);
-		System.out.println("b" + new Bird().);
-
 	}
 }

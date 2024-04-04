@@ -1,0 +1,1 @@
+class Beagle extends Dog{}

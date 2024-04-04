@@ -1,0 +1,1 @@
+class Beagle implements Pet{}

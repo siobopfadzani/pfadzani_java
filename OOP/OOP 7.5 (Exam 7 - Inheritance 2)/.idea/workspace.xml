@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d615268-9d2e-45ea-a0ad-cb96316a34b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/OOP 7.6_Exam_6 - Inheritance 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q14/Q14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q14/src/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q14/src/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q18/Q18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q18/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q18/src/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q19/One.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q19/Super.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q19/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q19/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q19/Two.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q2/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q2/Eagle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q2/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q20/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q20/A2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q20/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q20/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q21/Barbie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q21/Doll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q21/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q21/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q22/Q22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q22/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q22/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q22/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q23/Q23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q23/src/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q23/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q23/src/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q23/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q24/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q24/Base2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q24/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q24/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q26/Q26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q26/src/FileA/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q26/src/FileA/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q26/src/FileB/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q29/Q29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q29/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q34/Q34.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q34/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q35/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q35/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q35/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q35/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q35/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q4/Q4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q4/src/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q4/src/Base2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q4/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q43/Aa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q43/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q43/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q44/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q47/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q47/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q47/XXX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q47/YYY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q48/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q48/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/Q6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/src/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/src/Soccer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q6/src/Soccer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q7/Q7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q7/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Q7/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/out/production/OOP 7.6_Exam_6 - Inheritance 1/OOP 7.6_Exam_6 - Inheritance 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep dives/Copy of OOP 7.0.8 DeepDive: Types of Variables/.idea/Copy of OOP 7.0.8 DeepDive Types of Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep dives/Copy of OOP 7.0.8 DeepDiveTypes of Variables/Copy of OOP 7.0.8 DeepDiveTypes of Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep dives/OOP DeepDive Variations/OOP DeepDive Variations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Eagle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP 7.6_Exam_6 - Inheritance 1/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep dives" beforeDir="false" afterPath="$PROJECT_DIR$/../deep dives" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2edTntSXcnxTU3XxrvjNKSKovNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestMain.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d615268-9d2e-45ea-a0ad-cb96316a34b8" name="Changes" comment="" />
+      <created>1712233630625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712233630625</updated>
+    </task>
+    <servers />
+  </component>
+</project>

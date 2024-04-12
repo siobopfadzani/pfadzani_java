@@ -1,6 +1,27 @@
+
+It seems like you're trying to create a menu system in Java using a MenuPrinter class and a Prompter class for user input. Here's how you can integrate the Prompter class into your MenuPrinter class to achieve the desired functionality:
+
+java
+Copy code
+public class Prompter {
+
+    private static Scanner scanner = new Scanner(System.in);
+
+    public static String prompt(String prompt) {
+        System.out.println(prompt);
+        return scanner.nextLine();
+    }
+}
+
 import java.util.Scanner;
 
 public class MenuPrinter {
+
+    private Scanner scanner;
+
+    public MenuPrinter() {
+        this.scanner = new Scanner(System.in);
+    }
 
     public void menuPrinter() {
         while (true) {
@@ -11,31 +32,29 @@ public class MenuPrinter {
             System.out.println("5. List saved users");
             System.out.println("6. Exit");
 
-            int choice = Prompter.prompt();
+            int choice = Integer.parseInt(Prompter.prompt("Enter your choice:"));
 
             switch (choice) {
                 case 1:
-                  createUser(scanDetails);
+                    UserDOA1.createUser(null, null, null, null, null);
                     break;
                 case 2:
-                    updateUser(scanDetails);
+                    UserDOA1.updateUser(null, null, null, null, null);;
                     break;
                 case 3:
-                    listUser(scanDetails);
+                    UserDOA1.findAll();
                     break;
                 case 4:
-                    deleteUser(scanDetails);
+                    UserDOA1.deleteUser(null);
                     break;
                 case 5:
-                    listUser(scanDetails);
+                    UserDOA1().;
                     break;
                 case 6:
+                    scanner.close();
                     return;
                 default:
                     System.out.println("Invalid choice! Please try again.");
             }
         }
     }
-
-
-}

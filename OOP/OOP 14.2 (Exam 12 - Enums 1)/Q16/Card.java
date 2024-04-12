@@ -1,0 +1,4 @@
+enum Card
+{
+    HEART,CLUB,SPADE,DIAMOND;
+}

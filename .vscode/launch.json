@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "myEnum21",
+            "request": "launch",
+            "mainClass": "myEnum21",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "TestC",
+            "request": "launch",
+            "mainClass": "TestC",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "TestEnum",
+            "request": "launch",
+            "mainClass": "TestEnum",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EnumOne",
+            "request": "launch",
+            "mainClass": "EnumOne",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "MainClass",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "DocExample",
             "request": "launch",
             "mainClass": "DocExample",

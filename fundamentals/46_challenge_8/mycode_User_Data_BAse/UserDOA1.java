@@ -36,13 +36,13 @@ public class UserDOA1 {
     public static void deleteUser(String email) {
         for (int i = 0; i < position; i++) {
             if (UserData[i] != null && email.equals(UserData[i][2])) {
-                // Move all elements after the deleted one up by one position
+               
                 for (int j = i; j < position - 1; j++) {
                     UserData[j] = UserData[j + 1];
                 }
-                // Set the last position to null
+          
                 UserData[position - 1] = null;
-                // Decrement the position counter
+                
                 position--;
                 return;
             }

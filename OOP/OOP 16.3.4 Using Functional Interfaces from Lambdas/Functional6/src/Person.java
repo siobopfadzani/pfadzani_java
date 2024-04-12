@@ -33,12 +33,13 @@ public class Person {
     public static void main(String[] args) {
         ArrayList<Person> personList = new ArrayList<>();
 
-        Comparator<Person> compareByAge = (p1, p2) -> Integer.compare(p2.getAge(), p1.getAge());
-        Collections.sort(personList, compareByAge);
+        Comparator<Person> comparename = Comparator.comparing(Person::getName);
+
+        Collections.sort(personList, comparename);
         personList.add(new Person(31, "Pfadzani", "Siobo"));
         personList.add(new Person(30, "Tshepi", "Siobo"));
         personList.add(new Person(2, "Oritonda", "Siobo"));
-        Collections.sort(personList,compareByAge);
+        Collections.sort(personList,comparename);
         for (Person person : personList) {
             System.out.println("Name: " + person.getName() + ", Age: " + person.getAge()+ " surname : " + person.getSurname());
         }

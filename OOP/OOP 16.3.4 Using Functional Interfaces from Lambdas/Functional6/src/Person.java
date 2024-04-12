@@ -1,4 +1,4 @@
-package Functional6;
+
 import java.util.Date;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -32,11 +32,13 @@ public class Person {
     }
     public static void main(String[] args) {
         ArrayList<Person> personList = new ArrayList<>();
-        Comparator <Person> compare = (value1,value2) - >
+
+        Comparator<Person> compareByAge = (p1, p2) -> Integer.compare(p2.getAge(), p1.getAge());
+        Collections.sort(personList, compareByAge);
         personList.add(new Person(31, "Pfadzani", "Siobo"));
         personList.add(new Person(30, "Tshepi", "Siobo"));
         personList.add(new Person(2, "Oritonda", "Siobo"));
-        Collections.sort(personList,compare);
+        Collections.sort(personList,compareByAge);
         for (Person person : personList) {
             System.out.println("Name: " + person.getName() + ", Age: " + person.getAge()+ " surname : " + person.getSurname());
         }

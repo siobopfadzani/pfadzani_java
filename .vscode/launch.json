@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Functional6.Person",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "myEnum21",
             "request": "launch",
             "mainClass": "myEnum21",

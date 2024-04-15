@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Functional6/Functional6.iml" filepath="$PROJECT_DIR$/Functional6/Functional6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional7/Functional7.iml" filepath="$PROJECT_DIR$/Functional7/Functional7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional8/Functional8.iml" filepath="$PROJECT_DIR$/Functional8/Functional8.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP 16.3.4 Using Functional Interfaces from Lambdas.iml" filepath="$PROJECT_DIR$/OOP 16.3.4 Using Functional Interfaces from Lambdas.iml" />
     </modules>
   </component>

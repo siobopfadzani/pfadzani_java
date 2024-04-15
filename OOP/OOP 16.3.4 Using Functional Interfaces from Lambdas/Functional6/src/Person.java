@@ -1,4 +1,5 @@
 
+
 import java.util.Date;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -8,6 +9,8 @@ public class Person {
     private int age;
     private String name;
     private String surname;
+
+
 
 
     public Person(int age, String name, String surname) {
@@ -32,14 +35,12 @@ public class Person {
     }
     public static void main(String[] args) {
         ArrayList<Person> personList = new ArrayList<>();
-
-        Comparator<Person> comparename = Comparator.comparing(Person::getName);
-
-        Collections.sort(personList, comparename);
+        Comparator<Person> compareByAge = (p1, p2) -> Integer.compare(p1.getAge(), p2.getAge());
+        Collections.sort(personList, compareByAge);
         personList.add(new Person(31, "Pfadzani", "Siobo"));
         personList.add(new Person(30, "Tshepi", "Siobo"));
         personList.add(new Person(2, "Oritonda", "Siobo"));
-        Collections.sort(personList,comparename);
+        Collections.sort(personList,compareByAge);
         for (Person person : personList) {
             System.out.println("Name: " + person.getName() + ", Age: " + person.getAge()+ " surname : " + person.getSurname());
         }

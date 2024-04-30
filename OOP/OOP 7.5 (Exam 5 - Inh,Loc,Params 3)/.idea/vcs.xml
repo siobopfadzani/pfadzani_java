@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Test_variations/variations" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Test_variations/variations_of_Differrent_Concepts" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../fundamentals/23_array_copy_test" vcs="Git" />
-  </component>
-</project>

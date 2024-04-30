@@ -3,7 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OOP 16.3.5 Predicates with Lambdas.iml" filepath="$PROJECT_DIR$/.idea/OOP 16.3.5 Predicates with Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate6/Predicate6.iml" filepath="$PROJECT_DIR$/Predicate6/Predicate6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate7/Predicate7.iml" filepath="$PROJECT_DIR$/Predicate7/Predicate7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate8/Predicate8.iml" filepath="$PROJECT_DIR$/Predicate8/Predicate8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate9/Predicate9.iml" filepath="$PROJECT_DIR$/Predicate9/Predicate9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Predicates1/Predicates1.iml" filepath="$PROJECT_DIR$/Predicates1/Predicates1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicates2/Predicates2.iml" filepath="$PROJECT_DIR$/Predicates2/Predicates2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicates3/Predicates3.iml" filepath="$PROJECT_DIR$/Predicates3/Predicates3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicates4/Predicates4.iml" filepath="$PROJECT_DIR$/Predicates4/Predicates4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicates5/Predicates5.iml" filepath="$PROJECT_DIR$/Predicates5/Predicates5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/predicates/predicates.iml" filepath="$PROJECT_DIR$/predicates/predicates.iml" />
     </modules>
   </component>
 </project>

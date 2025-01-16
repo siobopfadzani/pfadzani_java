@@ -1,8 +1,11 @@
 {
     "java.project.sourcePaths": [
-        "OOP  2.2 Constructor Chaining - this/3",
-        "OOP  2.2 Constructor Chaining - this/2",
-        "OOP  2.2 Constructor Chaining - this/1",
-        "OOP  2.3 Constructors - super/1"
+        "7.0.3 Anonymous Classes/new_folder",
+        "7.0.3 Anonymous Classes/new",
+        "7.0.3 Anonymous Classes/fold",
+        "7.0.3 Anonymous Classes/Lamda",
+        "7.0.3 Anonymous Classes/3",
+        "7.0.1 Nested Classes/lessons4/static_Nested",
+        "7.0.1 Nested Classes/lessons4/LamdaExam/Question3"
     ]
 }

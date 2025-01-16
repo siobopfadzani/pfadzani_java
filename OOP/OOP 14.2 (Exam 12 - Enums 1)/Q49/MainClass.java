@@ -3,6 +3,14 @@ public class MainClass
 {
 	public static void main(String[]args)
 	{
-		System.out.println(A.Enums.A);
+		String a = new String("a");
+		String b = new String("a");
+
+		boolean result = a.compareTo(b);
+		System.out.println(result);
+
+		a.concat(b);
+		result = a.equals(b);
+		System.out.println(result);
 	}
 }

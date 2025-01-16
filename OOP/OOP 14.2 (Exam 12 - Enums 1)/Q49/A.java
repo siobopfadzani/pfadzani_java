@@ -2,32 +2,16 @@ package Q49;
 
 class A
 {
-	{
-		System.out.println(1);
-	}
+	
+	public static void main(String[] args) {
+		String a = new String("a");
+		String b = new String("a");
 
-	static
-	{
-		System.out.println(2);
-	}
+		boolean result = a.compareTo(b);
+		System.out.println(result);
 
-	enum Enums
-	{
-		A;
-		{
-			System.out.println(3);
-		}
-		static
-		{
-			System.out.println(4);
-
-		}
-		class B
-		{
-			{
-				System.out.println(5);
-			}
-		}
-
+		a.concat(b);
+		result = a.equals(b);
+		System.out.println(result);
 	}
 }

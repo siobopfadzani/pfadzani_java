@@ -1,0 +1,4 @@
+interface SuffixFunction
+{
+	void call();
+}

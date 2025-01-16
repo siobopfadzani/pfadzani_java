@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "myExams.Quetion27.TestClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "MethodsAndIdentifiers.variation2.Test2",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "DateTimesClass",
+            "request": "launch",
+            "mainClass": "ArrayLisr.DateAndTime.DateTimesClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "NewClass",
+            "request": "launch",
+            "mainClass": "ArrayLisr.NewClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array.Array2.Array2",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Array.Arrays",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Lion",
+            "request": "launch",
+            "mainClass": "Lion_class.Lion",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "stringclass.strings",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "StringBuilder.strings",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "Question1.TestClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Question13.Main",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Question16.Main",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Mainclass",
+            "request": "launch",
+            "mainClass": "Question17.Mainclass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "TestClass(1)",
+            "request": "launch",
+            "mainClass": "Question18.TestClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "Question19.B",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Varargs",
+            "request": "launch",
+            "mainClass": "Question20.Varargs",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "TestClass(2)",
+            "request": "launch",
+            "mainClass": "Question21.TestClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Question27.Count",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "ClownFish",
+            "request": "launch",
+            "mainClass": "Question28.ClownFish",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "OverandOver",
+            "request": "launch",
+            "mainClass": "Question33.OverandOver",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Retread",
+            "request": "launch",
+            "mainClass": "Question34.Retread",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "OrderTest",
+            "request": "launch",
+            "mainClass": "Question36.OrderTest",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "Question38.Main",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "crazyMath",
+            "request": "launch",
+            "mainClass": "Question41.crazyMath",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "TestClass(3)",
+            "request": "launch",
+            "mainClass": "Question43.TestClass",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "ForSwitch",
+            "request": "launch",
+            "mainClass": "Question44.ForSwitch",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "Programmer",
+            "request": "launch",
+            "mainClass": "Question48.Programmer",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        },
+        {
+            "type": "java",
+            "name": "AccessTest",
+            "request": "launch",
+            "mainClass": "Question8.AccessTest",
+            "projectName": "JavaFullHardest3_a1508cfc"
+        }
+    ]
+}
